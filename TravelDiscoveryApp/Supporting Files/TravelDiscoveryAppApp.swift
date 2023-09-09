@@ -11,7 +11,7 @@ import SwiftUI
 struct TravelDiscoveryAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DiscoveryView()
         }
     }
 }
